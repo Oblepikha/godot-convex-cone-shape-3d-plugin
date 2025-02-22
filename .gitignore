@@ -1,7 +1,7 @@
 # Godot 4+ specific ignores
 .godot/
-project.godot
-icon.svg
+/project.godot
+/icon.svg
 *.uid
 *.import
 *.tscn
